@@ -16,3 +16,11 @@ _build_armhf/*
 
 *.bak
 *~
+conan.lock
+conanbuild.bat
+conanbuildenv-release-x86_64.bat
+conaninfo.txt
+conanrun.bat
+conanrunenv-release-x86_64.bat
+deactivate_conanbuild.bat
+deactivate_conanrun.bat
